@@ -8,5 +8,7 @@
     <string name="Switch">What does this do?</string>
     <string name="RadioButton">RadioButton</string>
     <string name="CheckBox">CheckBox</string>
+    <string name="CHAT"> Send </string>
+    <string name="Start">Start chat</string>
 
 </resources>
